@@ -18,7 +18,7 @@ class Main(Frame):
             "7", "8", "9", "-",
             "(", "0", ")", "X^2"
         ]
-
+#66
         x = 10
         y = 140
         for bt in btns:
